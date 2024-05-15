@@ -2,6 +2,7 @@
 # ML Summative: OMIC and Clinical Data for predicting Cancer Outcomes Repository
 
 **Note:** This repository was restarted multiple times due to the git file corrupting because of large files preventing commits which led to it corrupting. So, there is no log since the start of the project.
+The commit last night wrote over git history because it got too large to commit again and caused issues. I had to write over the git history as in the past I'd commited the large .Rda files from preprocessing which were still in the git history and left the .git file very large.
 
 ## Repository Contents
 
