@@ -23,7 +23,7 @@
 - Empty folder for adding raw data, which will then be processed by our R scripts.
 
 #### `preprocessed`
-- Repository for saving the preprocessed data. Includes a subfolder for methylation preprocessed sets.
+- Repository for saving the preprocessed data. Includes a subfolder for methylation preprocessed sets. I've included made up preprocessed sets in the zip file but not the github.
 
 #### `plot`
 - Repository to store plots after running all analysis. These include all plots from previous runs.
